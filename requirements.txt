@@ -1,0 +1,41 @@
+# Core Python Libraries
+pandas
+numpy
+
+# Visualization (for EDA)
+matplotlib
+seaborn
+
+# Text Cleaning & Preprocessing
+nltk
+spacy
+beautifulsoup4
+tqdm
+
+# Sentence Embeddings
+sentence-transformers
+
+# Vector Store (RAG)
+faiss-cpu
+# Optional: chromadb
+
+# RAG Framework / LLM Orchestration
+langchain
+openai
+
+# Hugging Face Transformers (LLMs)
+transformers
+torch
+accelerate
+
+# Web UI Interface
+streamlit
+streamlit-chat  # Optional - nice chat UI element
+
+# Utility
+python-dotenv
+scikit-learn
+regex
+
+# Jupyter (optional - for dev only)
+jupyterlab
